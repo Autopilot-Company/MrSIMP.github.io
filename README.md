@@ -1,5 +1,4 @@
-# MrSIMP.github.io
-Terms of Services
+# Mr. S.I.M.P. Terms of Services
 This document outlines the terms and conditions governing your use of Mr. S.I.M.P. By accessing or using the bot, you agree to be bound by these Terms of Service.
 
 1. Acceptance of Terms
